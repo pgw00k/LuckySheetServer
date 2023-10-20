@@ -1,0 +1,3 @@
+[submodule "Luckysheet"]
+	path = Luckysheet
+	url = git@github.com:pgw00k/Luckysheet.git
